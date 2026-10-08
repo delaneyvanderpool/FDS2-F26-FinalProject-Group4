@@ -1,2 +1,3 @@
-# FDS2-F26-FinalProject-Group4
+## FDS2-F26-FinalProject-Group4
 Natalie Liu
+Delaney Vanderpool
