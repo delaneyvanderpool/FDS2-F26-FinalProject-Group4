@@ -3,4 +3,7 @@ Natalie Liu
 
 Delaney Vanderpool
 
-Aya Suleiman 
+Aya Suleiman
+
+## Team
+- Delaney (GitHub: @delaneyvanderpool) - owns 00_load_data.ipynb
