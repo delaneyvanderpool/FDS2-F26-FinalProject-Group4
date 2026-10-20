@@ -4,3 +4,6 @@ Natalie Liu
 Delaney Vanderpool
 
 Aya Suleiman 
+
+## Team
+- Natalie (GitHub: @natliu4322) - assembles proposal.ipynb
