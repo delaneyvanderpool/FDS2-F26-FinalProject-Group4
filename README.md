@@ -5,5 +5,10 @@ Delaney Vanderpool
 
 Aya Suleiman 
 
-## Team 
-- Aya (GitHub: @ayasuleiman11) member 
+
+
+
+## Team
+- Aya Suleiman (GitHub: @ayasuleiman11)
+- Natalie (GitHub: @natliu4322) - assembles proposal.ipynb
+- Delaney (GitHub: @delaneyvanderpool) - owns 00_load_data.ipynb
