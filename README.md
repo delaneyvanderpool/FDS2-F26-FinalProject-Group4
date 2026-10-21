@@ -8,8 +8,9 @@ Aya Suleiman
 Dataset: Speed Dating Experiment
 Link to Dataset: https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment 
 
+
 ## Research Questions
-1. 
+1. Natalie - Are there systemic differences in how men and women evaluate their partners?
 
 
 
