@@ -1,9 +1,22 @@
 ## FDS2-F26-FinalProject-Group4
 Natalie Liu
-
 Delaney Vanderpool
-
 Aya Suleiman 
+
+
+## Dataset
+Dataset: Speed Dating Experiment
+Link to Dataset: https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment 
+
+## Research Questions
+1. 
+
+
+
+
+
+
+
 
 
 
